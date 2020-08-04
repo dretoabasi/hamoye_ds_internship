@@ -1,0 +1,6 @@
+In the directory::
+git init
+git add . [or any file or flder]
+git commit -m "...the message.."
+git remote add origin "...url..."
+git push -u origin master
